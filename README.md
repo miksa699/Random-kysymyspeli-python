@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/miksa699/Random-kysymyspeli-python">
-    <img src="kuvat/logo.png" alt="Logo" width="100" height="100">
+    <img src="https://i.imgur.com/YdJrwbz.png" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">Simple Python Game</h3>
